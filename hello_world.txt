@@ -1,0 +1,1 @@
+This is the sample "Hello World" text file from The Odin Project!
